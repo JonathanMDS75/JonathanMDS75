@@ -1,8 +1,8 @@
 # Olá, me chamo Jonathan
 ## Bem vindo ao meu perfil GitHub 👋
 <div style="display: inline_block"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgabrielnaoseioq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgabrielnaoseioq&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanMDS75&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMDS75&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ##
